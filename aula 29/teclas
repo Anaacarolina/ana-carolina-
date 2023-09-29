@@ -1,11 +1,11 @@
 
-funtion tocaSomPom () }
+   function tocaSomPom () }
    document. querySeletor('#som_tecla_pom').play();
 }
 
 const listaDeTeclas = document.querSelectorAll('.tecla');
 
-let contador = 0;
+let contador = 0; 
 
 // enquanto 
 while( contador < 9) { 
@@ -15,4 +15,3 @@ while( contador < 9) {
    contador = contador + 1;
 
    console.log(contador); 
-   
